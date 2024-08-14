@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tronlogu.github.io/sitemap.html.gz
+Sitemap: https://tronlogu.github.io/app/sitemap.html.gz
+Sitemap: https://tronlogu.github.io/assets/sitemap.html.gz
+Sitemap: https://tronlogu.github.io/css/sitemap.html.gz
+Sitemap: https://tronlogu.github.io/includes/sitemap.html.gz
+Sitemap: https://tronlogu.github.io/item/sitemap.html.gz
+Sitemap: https://tronlogu.github.io/src/sitemap.html.gz
